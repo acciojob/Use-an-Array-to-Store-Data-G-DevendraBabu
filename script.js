@@ -1,3 +1,4 @@
-let yourArray = ["one", 2, true, false, null];
+let yourArray = ["string", 1, false, true, 23];
+
 
 // console.log(typeof yourArray[0]);
